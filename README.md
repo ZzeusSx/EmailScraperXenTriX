@@ -1,11 +1,11 @@
 # EmailScraperXenTriX
 Simple but powerfull e-mail scraper with not much limitations. Credits to ZeroToMastery for Teaching us!
 
-git clone https://github.com/ZzeusSx/EmailScraperXenTriX
+>git clone https://github.com/ZzeusSx/EmailScraperXenTriX
 
-cd EmailScraperXenTriX
+>cd EmailScraperXenTriX
 
-python3 email-scraper.py
+>python3 email-scraper.py
 
 >enter target url: ip or http/https://example.com
 
