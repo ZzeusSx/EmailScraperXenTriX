@@ -17,3 +17,11 @@ Edit: if count == 1000: from 1 - 9999 or more if you want to change the search o
 pres enter and the script should run.
 
 wait till script finished and your results will show.
+![Screenshot_2022-06-21_19-26-50](https://user-images.githubusercontent.com/88929402/174861814-255579a3-9ca3-4bf2-ba46-32bd1f755f7d.png)
+
+-------------------------------------
+
+![Screenshot_2022-06-21_19-30-18](https://user-images.githubusercontent.com/88929402/174861749-2e8dfe2d-2d16-4cc4-9324-daa041b1d479.png)
+
+~~~~For Educational use only~~~~
+~~~~I am not responsible for any unresponsible usage of this tool!~~~~~
