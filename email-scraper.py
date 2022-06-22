@@ -5,6 +5,29 @@ import urllib.parse
 from collections import deque
 import re
 
+print('''
+********************************************************************************** 
+*  _____                 _ _   ____                                   _   ___    *
+* | ____|_ __ ___   __ _(_) | / ___|  ___ _ __ __ _ _ __   ___ _ __  / | / _ \   *         
+* |  _| | '_ ` _ \ / _` | | | \___ \ / __| '__/ _` | '_ \ / _ \ '__| | || | | |  *
+* | |___| | | | | | (_| | | |  ___) | (__| | | (_| | |_) |  __/ |    | || |_| |  *
+* |_____|_| |_| |_|\__,_|_|_| |____/ \___|_|  \__,_| .__/ \___|_|    |_(_)___/   *
+*                                                  |_|          Made by@XenTriX  *
+*            https://github.com/ZzeusSx/EmailScraperXenTriX                      *
+*                                                                                * 
+**********************************************************************************
+
+
+☻__►╦╤─                                             ☻  <----------- darude-sandstorm
+ /▌<---------- bob is against darude-sandstorm.    /▌ \   
+ / \             please copy and paste him under    / \
+                 darude-sandstorm comments if
+                 you are with us.
+                 here is the link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+                 
+'''
+) 
+
 user_url = str(input('[+] Enter Target URL To Scan: '))
 urls = deque([user_url])
 
@@ -15,7 +38,7 @@ count = 0
 try:
     while len(urls):
         count += 1
-        if count == 1000:
+        if count == 100: #edit this number to change the scanning output
             break
         url = urls.popleft()
         scraped_urls.add(url)
